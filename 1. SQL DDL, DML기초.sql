@@ -14,7 +14,6 @@ CREATE TABLE tbl_score (
 	-- PK 거는법
 	CONSTRAINT pk_stu_num 
 	PRIMARY KEY (stu_num),
-	
 );
 
 -- 테이블 생성 후 PK 적용하기
